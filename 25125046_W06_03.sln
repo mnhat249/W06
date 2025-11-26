@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "W06_25125046_03", "W06_25125046_03\W06_25125046_03.vcxproj", "{992D305D-F209-4993-ABB1-BAD447D701A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		_CRT_SECURE_NO_WARNINGS|x64 = _CRT_SECURE_NO_WARNINGS|x64
+		_CRT_SECURE_NO_WARNINGS|x86 = _CRT_SECURE_NO_WARNINGS|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{992D305D-F209-4993-ABB1-BAD447D701A6}._CRT_SECURE_NO_WARNINGS|x64.ActiveCfg = _CRT_SECURE_NO_WARNINGS|x64
+		{992D305D-F209-4993-ABB1-BAD447D701A6}._CRT_SECURE_NO_WARNINGS|x64.Build.0 = _CRT_SECURE_NO_WARNINGS|x64
+		{992D305D-F209-4993-ABB1-BAD447D701A6}._CRT_SECURE_NO_WARNINGS|x86.ActiveCfg = _CRT_SECURE_NO_WARNINGS|Win32
+		{992D305D-F209-4993-ABB1-BAD447D701A6}._CRT_SECURE_NO_WARNINGS|x86.Build.0 = _CRT_SECURE_NO_WARNINGS|Win32
+		{992D305D-F209-4993-ABB1-BAD447D701A6}.Debug|x64.ActiveCfg = Debug|x64
+		{992D305D-F209-4993-ABB1-BAD447D701A6}.Debug|x64.Build.0 = Debug|x64
+		{992D305D-F209-4993-ABB1-BAD447D701A6}.Debug|x86.ActiveCfg = Debug|Win32
+		{992D305D-F209-4993-ABB1-BAD447D701A6}.Debug|x86.Build.0 = Debug|Win32
+		{992D305D-F209-4993-ABB1-BAD447D701A6}.Release|x64.ActiveCfg = Release|x64
+		{992D305D-F209-4993-ABB1-BAD447D701A6}.Release|x64.Build.0 = Release|x64
+		{992D305D-F209-4993-ABB1-BAD447D701A6}.Release|x86.ActiveCfg = Release|Win32
+		{992D305D-F209-4993-ABB1-BAD447D701A6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {860C2F1E-56BC-44D8-87D6-6D63B2AF2387}
+	EndGlobalSection
+EndGlobal
